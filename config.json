@@ -1,5 +1,5 @@
 {
-    "api": "wally.striveservices.org",
+    "api": "https://wally.striveservices.org",
     "fallback_registries": [
         "https://github.com/UpliftGames/wally-index"
     ]
