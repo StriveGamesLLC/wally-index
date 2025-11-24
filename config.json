@@ -1,5 +1,5 @@
 {
-    "api": "https://strive-wally-registry-backend-322582815246.us-east4.run.app",
+    "api": "wally.striveservices.org",
     "fallback_registries": [
         "https://github.com/UpliftGames/wally-index"
     ]
